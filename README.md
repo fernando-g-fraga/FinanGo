@@ -8,8 +8,8 @@ Bot do telegram para registro de gastos diários
 - [x] Inicializar projeto Go com `go mod init`
 - [x] Configurar estrutura MVC (cmd/, internal/controller, service, model, router)
 - [x] Adicionar dependência do Gin: `go get github.com/gin-gonic/gin`
-- [ ] Criar `.env` e usar `github.com/joho/godotenv` para variáveis sensíveis
-- [ ] Definir estrutura básica do banco de dados (PostgreSQL)
+- [X] Criar `.env` e usar `github.com/joho/godotenv` para variáveis sensíveis
+- [X] Definir estrutura básica do banco de dados (PostgreSQL)
 
 ## 🤖 Integração com Telegram
 - [ ] Criar bot no BotFather e obter token
